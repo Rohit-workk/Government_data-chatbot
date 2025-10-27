@@ -1,0 +1,16 @@
+# Core dependencies
+streamlit>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# HTTP requests for Perplexity API
+requests>=2.31.0
+urllib3>=2.0.0
+
+# Optional: Enhanced features
+streamlit-option-menu>=0.3.6
+
+# # Data visualization (if you add graphs later)
+# plotly>=5.17.0
+# matplotlib>=3.7.0
+# seaborn>=0.12.0
