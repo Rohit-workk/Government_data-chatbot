@@ -1,9 +1,6 @@
 # Streamlit secrets
 .streamlit/secrets.toml
 
-# Jupyter notebooks with keys
-data.ipynb
-
 # Common cache & environment folders
 __pycache__/
 .env
